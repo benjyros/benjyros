@@ -28,6 +28,9 @@ Here are some ideas to get you started:
 <!-- YOUTUBE:START -->
 <!-- YOUTUBE:END -->
 
+![Benjyros' GitHub stats](https://github-readme-stats.vercel.app/api?username=benjyros&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=synthwave)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=benjyros&layout=compact&theme=radical)
 
 [youtube]: https://www.youtube.com/channel/UCFp7FoCb2FkXO66FTGx8WzA
 [instagram]: https://www.instagram.com/benjyros/
