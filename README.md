@@ -26,6 +26,11 @@ Here are some ideas to get you started:
 
 ### Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [Demonstration - JSF RGB to Hex](https://www.youtube.com/watch?v=jS86Wj6ncVc)
+- [Modul 122 - Numberguesser](https://www.youtube.com/watch?v=alxb1srRYL0)
+- [Lernatelier ILA 1306 - Car Parking Simulator V2](https://www.youtube.com/watch?v=TUgpCnKCQtE)
+- [Lernatelier ILA 1305  - Car Parking Simulator](https://www.youtube.com/watch?v=Bgnr378WKJc)
+- [Memorygame - Demonstration](https://www.youtube.com/watch?v=1YnQmZ3ogQI)
 <!-- YOUTUBE:END -->
 
 ![Benjyros' GitHub stats](https://github-readme-stats.vercel.app/api?username=benjyros&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=synthwave)
