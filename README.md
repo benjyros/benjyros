@@ -1,9 +1,9 @@
 <div align="center">
     <img style="padding-bottom: 3%" src="https://github-readme-stats.vercel.app/api?username=benjyros&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=synthwave" />
+    <br>
     <img style="padding-bottom: 3%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=benjyros&layout=compact&theme=radical" />
 </div>
 
-<br>
 <br>
 
 <div align="center">
@@ -19,7 +19,6 @@
     </a>
 </div>
 
-<br>
 <br>
 
 ### Latest YouTube Videos
