@@ -23,9 +23,9 @@
 
 ### Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [MousePosition with jQuery](https://www.youtube.com/watch?v=IDzBhTiQSX0)
 - [Demonstration - JSF RGB to Hex](https://www.youtube.com/watch?v=jS86Wj6ncVc)
 - [Modul 122 - Numberguesser](https://www.youtube.com/watch?v=alxb1srRYL0)
 - [Lernatelier ILA 1306 - Car Parking Simulator V2](https://www.youtube.com/watch?v=TUgpCnKCQtE)
 - [Lernatelier ILA 1305  - Car Parking Simulator](https://www.youtube.com/watch?v=Bgnr378WKJc)
-- [Memorygame - Demonstration](https://www.youtube.com/watch?v=1YnQmZ3ogQI)
 <!-- YOUTUBE:END -->
